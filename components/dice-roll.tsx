@@ -1,32 +1,32 @@
-"use client"
+"use client";
 
-import { useState } from "react"
-import { Button } from "@/components/ui/button"
-import { motion } from "framer-motion"
+import { useState } from "react";
+import { Button } from "@/components/ui/button";
+import { motion } from "framer-motion";
 
 export default function DiceRoll() {
-  const [isRolling, setIsRolling] = useState(false)
-  const [diceValue, setDiceValue] = useState(1)
+  const [isRolling, setIsRolling] = useState(false);
+  const [diceValue, setDiceValue] = useState(1);
 
   const rollDice = () => {
-    setIsRolling(true)
+    setIsRolling(true);
     setTimeout(() => {
-      setDiceValue(Math.floor(Math.random() * 6) + 1)
-      setIsRolling(false)
-    }, 1000)
-  }
+      setDiceValue(Math.floor(Math.random() * 6) + 1);
+      setIsRolling(false);
+    }, 1000);
+  };
 
   const getDots = (value: number) => {
     switch (value) {
       case 1:
-        return <div className="dot center-dot"></div>
+        return <div className="dot center-dot"></div>;
       case 2:
         return (
           <>
             <div className="dot top-left"></div>
             <div className="dot bottom-right"></div>
           </>
-        )
+        );
       case 3:
         return (
           <>
@@ -34,7 +34,7 @@ export default function DiceRoll() {
             <div className="dot center-dot"></div>
             <div className="dot bottom-right"></div>
           </>
-        )
+        );
       case 4:
         return (
           <>
@@ -43,7 +43,7 @@ export default function DiceRoll() {
             <div className="dot bottom-left"></div>
             <div className="dot bottom-right"></div>
           </>
-        )
+        );
       case 5:
         return (
           <>
@@ -53,7 +53,7 @@ export default function DiceRoll() {
             <div className="dot bottom-left"></div>
             <div className="dot bottom-right"></div>
           </>
-        )
+        );
       case 6:
         return (
           <>
@@ -64,11 +64,11 @@ export default function DiceRoll() {
             <div className="dot bottom-left"></div>
             <div className="dot bottom-right"></div>
           </>
-        )
+        );
       default:
-        return null
+        return null;
     }
-  }
+  };
 
   return (
     <div className="flex flex-col items-center gap-4">
@@ -82,7 +82,11 @@ export default function DiceRoll() {
       >
         {getDots(diceValue)}
       </motion.div>
-      <Button onClick={rollDice} disabled={isRolling} className="bg-red-500 hover:bg-red-600 text-white">
+      <Button
+        onClick={rollDice}
+        disabled={isRolling}
+        className="bg-red-500 hover:bg-red-600 text-white"
+      >
         {isRolling ? "Rolling..." : "Roll Dice"}
       </Button>
 
@@ -93,53 +97,56 @@ export default function DiceRoll() {
           background-color: white;
           border-radius: 10px;
           box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-          display: grid;
-          grid-template-areas:
-            "tl . tr"
-            "ml . mr"
-            "bl . br";
-          padding: 8px;
           position: relative;
         }
-        
+
         .dot {
           width: 14px;
           height: 14px;
           border-radius: 50%;
           background-color: #333;
-        }
-        
-        .top-left {
-          grid-area: tl;
-        }
-        
-        .top-right {
-          grid-area: tr;
-        }
-        
-        .middle-left {
-          grid-area: ml;
-        }
-        
-        .middle-right {
-          grid-area: mr;
-        }
-        
-        .center-dot {
           position: absolute;
+        }
+
+        /* 정확한 위치들 */
+        .top-left {
+          top: 20%;
+          left: 20%;
+        }
+
+        .top-right {
+          top: 20%;
+          right: 20%;
+        }
+
+        .middle-left {
+          top: 50%;
+          left: 20%;
+          transform: translateY(-50%);
+        }
+
+        .middle-right {
+          top: 50%;
+          right: 20%;
+          transform: translateY(-50%);
+        }
+
+        .center-dot {
           top: 50%;
           left: 50%;
           transform: translate(-50%, -50%);
         }
-        
+
         .bottom-left {
-          grid-area: bl;
+          bottom: 20%;
+          left: 20%;
         }
-        
+
         .bottom-right {
-          grid-area: br;
+          bottom: 20%;
+          right: 20%;
         }
       `}</style>
     </div>
-  )
+  );
 }

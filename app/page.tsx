@@ -1,4 +1,3 @@
-"use client";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import CoinFlip from "@/components/coin-flip";
@@ -6,6 +5,8 @@ import DiceRoll from "@/components/dice-roll";
 import Roulette from "@/components/roulette";
 import FeatureCard from "@/components/feature-card";
 import { Apple, Download, Play, Smartphone, Sparkles, Zap } from "lucide-react";
+import RandomImage from "@/components/random-image";
+import DownloadSection from "@/components/download-section";
 
 export default function LandingPage() {
   const handleDownload = (store: "google" | "apple") => {
@@ -16,6 +17,7 @@ export default function LandingPage() {
 
     window.open(url, "_blank");
   };
+
   return (
     <div className="flex min-h-screen flex-col">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
@@ -66,15 +68,7 @@ export default function LandingPage() {
                 </div>
               </div>
               <div className="flex items-center justify-center">
-                <div className="relative h-[450px] w-[250px] overflow-hidden rounded-xl border-8 border-gray-900 bg-gray-900 shadow-xl">
-                  <div className="absolute inset-0 rounded-lg overflow-hidden">
-                    <img
-                      src="/placeholder.svg?height=450&width=250"
-                      alt="Random Generator App Screenshot"
-                      className="h-full w-full object-cover"
-                    />
-                  </div>
-                </div>
+                <RandomImage />
               </div>
             </div>
           </div>
@@ -184,26 +178,7 @@ export default function LandingPage() {
                   randomness at your fingertips!
                 </p>
               </div>
-              <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                <Button
-                  onClick={() => handleDownload("apple")}
-                  size="lg"
-                  variant="secondary"
-                  className="gap-2"
-                >
-                  <Apple />
-                  App Store&nbsp;&nbsp;
-                </Button>
-                <Button
-                  onClick={() => handleDownload("google")}
-                  size="lg"
-                  variant="secondary"
-                  className="gap-2"
-                >
-                  <Play />
-                  Google Play
-                </Button>
-              </div>
+              <DownloadSection />
             </div>
           </div>
         </section>
