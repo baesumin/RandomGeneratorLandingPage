@@ -4,20 +4,11 @@ import CoinFlip from "@/components/coin-flip";
 import DiceRoll from "@/components/dice-roll";
 import Roulette from "@/components/roulette";
 import FeatureCard from "@/components/feature-card";
-import { Apple, Download, Play, Smartphone, Sparkles, Zap } from "lucide-react";
+import { Download, Smartphone, Sparkles, Zap } from "lucide-react";
 import RandomImage from "@/components/random-image";
 import DownloadSection from "@/components/download-section";
 
 export default function LandingPage() {
-  const handleDownload = (store: "google" | "apple") => {
-    let url =
-      store === "google"
-        ? "https://play.google.com/store/apps/details?id=com.sm.randomgenerator"
-        : "https://apps.apple.com/us/app/random-generator-all-in-one/id6744875119";
-
-    window.open(url, "_blank");
-  };
-
   return (
     <div className="flex min-h-screen flex-col">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
