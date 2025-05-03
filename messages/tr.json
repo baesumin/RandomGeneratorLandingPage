@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Özellikler",
+    "download": "Şimdi İndir",
+    "language": "Dil"
+  },
+  "hero": {
+    "title": "Tüm Rastgele İhtiyaçlarınız Tek Bir Uygulamada",
+    "subtitle": "Yazı tura atın, zar atın, rulet çevirin ve daha fazlası! Karar vermeyi eğlenceli ve kolay hale getiren nihai rastgele oluşturucu uygulaması.",
+    "downloadNow": "Şimdi İndir",
+    "seeFeatures": "Özellikleri Gör"
+  },
+  "features": {
+    "title": "Özelliklerimizi Deneyin",
+    "subtitle": "Uygulamayı indirmeden önce burada rastgeleliğin tadını çıkarın!",
+    "coinFlip": {
+      "title": "Yazı Tura",
+      "description": "Yazı mı tura mı? Bırakın kader karar versin!",
+      "flip": "Yazı Tura At",
+      "flipping": "Atılıyor...",
+      "tryAgain": "Tekrar Dene"
+    },
+    "diceRoll": {
+      "title": "Zar Atma",
+      "description": "Aynı anda 6 adede kadar zar atın!",
+      "roll": "Zar At",
+      "rolling": "Atılıyor...",
+      "tryAgain": "Tekrar Dene"
+    },
+    "roulette": {
+      "title": "Rulet",
+      "description": "Şans çarkını çevirin!",
+      "spin": "Çarkı Çevir",
+      "spinning": "Çevriliyor...",
+      "result": "Sonuç: ",
+      "tryAgain": "Tekrar Dene"
+    },
+    "pickOne": {
+      "title": "Birini Seç",
+      "description": "Rastgele bir takma ad seçmek için tıklayıp basılı tutun!",
+      "instructions": "Takma ad seçmek için tıklayıp basılı tutun",
+      "pickColor": "Takma Ad Seç",
+      "selecting": "Seçiliyor...",
+      "tryAgain": "Tekrar Dene"
+    },
+    "wordGenerator": {
+      "title": "Kelime Üretici",
+      "description": "Rastgele İngilizce kelimeler oluşturun!",
+      "instructions": "Rastgele bir kelime üretmek için düğmeye tıklayın",
+      "generate": "Kelime Üret",
+      "generating": "Üretiliyor..."
+    },
+    "imageGenerator": {
+      "title": "Görsel Üretici",
+      "description": "Rastgele güzel görseller oluşturun!",
+      "instructions": "Rastgele bir görsel üretmek için düğmeye tıklayın",
+      "generate": "Görsel Üret",
+      "generating": "Üretiliyor..."
+    }
+  },
+  "moreFeatures": {
+    "title": "İhtiyacınız Olan Her Şey",
+    "subtitle": "Karar vermenize yardımcı olmak veya sadece eğlenmek için birçok rastgele oluşturucu sunuyoruz.",
+    "numberGenerator": {
+      "title": "Sayı Üretici",
+      "description": "Belirttiğiniz aralıkta rastgele sayılar oluşturun."
+    },
+    "namePicker": {
+      "title": "İsim Seçici",
+      "description": "Özel listelerinizden rastgele isimler seçin."
+    },
+    "colorGenerator": {
+      "title": "Renk Üretici",
+      "description": "HEX, RGB ve HSL formatlarında rastgele renkler oluşturun."
+    },
+    "customLists": {
+      "title": "Özel Listeler",
+      "description": "Rastgele seçimler için kendi listelerinizi oluşturun ve kaydedin."
+    }
+  },
+  "testimonials": {
+    "title": "Kullanıcılarımız Ne Diyor",
+    "subtitle": "Random Generator uygulamamızı seven binlerce memnun kullanıcıya katılın",
+    "quote1": "Bu uygulama karar verme yöntemimi değiştirdi! Arayüz çok sezgisel ve özellikler oldukça çeşitli.",
+    "quote2": "D&D kampanyalarımda her gün bu uygulamayı kullanıyorum. Zar atıcı ve isim üretici harika çalışıyor!",
+    "quote3": "Bu uygulamanın çok yönlülüğüne bayılıyorum! Rastgele öğle yemeği mekanı seçmekten arkadaşlarla tartışmaları çözmeye kadar hayatımın vazgeçilmezi oldu."
+  },
+  "download": {
+    "title": "Şimdi İndir",
+    "subtitle": "Random Generator uygulamasını cihazınıza indirin ve rastgeleliğin keyfini her zaman çıkarın!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "İndirmek için tarayın"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Tüm hakları saklıdır.",
+    "terms": "Şartlar",
+    "privacy": "Gizlilik Politikası",
+    "contact": "İletişim"
+  }
+}

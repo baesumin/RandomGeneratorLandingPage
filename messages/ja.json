@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "機能",
+    "download": "今すぐダウンロード",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "すべてのランダムニーズをこのアプリで",
+    "subtitle": "コインを投げ、サイコロを振り、ルーレットを回そう！楽しく簡単に決断できる究極のランダムジェネレーターアプリ。",
+    "downloadNow": "今すぐダウンロード",
+    "seeFeatures": "機能を見る"
+  },
+  "features": {
+    "title": "機能を体験しよう",
+    "subtitle": "アプリをダウンロードする前にここでランダム体験！",
+    "coinFlip": {
+      "title": "コイントス",
+      "description": "表か裏か？運に任せよう！",
+      "flip": "コインを投げる",
+      "flipping": "投げています...",
+      "tryAgain": "もう一度試す"
+    },
+    "diceRoll": {
+      "title": "サイコロ振り",
+      "description": "最大6個のサイコロを一度に振ろう！",
+      "roll": "サイコロを振る",
+      "rolling": "振っています...",
+      "tryAgain": "もう一度試す"
+    },
+    "roulette": {
+      "title": "ルーレット",
+      "description": "運命のルーレットを回そう！",
+      "spin": "ルーレットを回す",
+      "spinning": "回転中...",
+      "result": "結果: ",
+      "tryAgain": "もう一度試す"
+    },
+    "pickOne": {
+      "title": "1つ選ぶ",
+      "description": "クリック＆ホールドでランダムにニックネームを選ぼう！",
+      "instructions": "クリックして長押しするとニックネームを選べます",
+      "pickColor": "ニックネームを選ぶ",
+      "selecting": "選択中...",
+      "tryAgain": "もう一度試す"
+    },
+    "wordGenerator": {
+      "title": "ワードジェネレーター",
+      "description": "英単語をランダム生成！",
+      "instructions": "ボタンを押してランダムな単語を生成",
+      "generate": "単語を生成",
+      "generating": "生成中..."
+    },
+    "imageGenerator": {
+      "title": "イメージジェネレーター",
+      "description": "美しいランダム画像を作成しよう！",
+      "instructions": "ボタンを押してランダムな画像を生成",
+      "generate": "画像を生成",
+      "generating": "生成中..."
+    }
+  },
+  "moreFeatures": {
+    "title": "必要なすべてがここに",
+    "subtitle": "たくさんのランダムツールで、決断を助けたり、楽しく遊んだりできます。",
+    "numberGenerator": {
+      "title": "ナンバージェネレーター",
+      "description": "指定範囲内のランダムな数字を生成します。"
+    },
+    "namePicker": {
+      "title": "名前セレクター",
+      "description": "カスタムリストからランダムに名前を選びます。"
+    },
+    "colorGenerator": {
+      "title": "カラージェネレーター",
+      "description": "HEX、RGB、HSL形式でランダムな色を生成します。"
+    },
+    "customLists": {
+      "title": "カスタムリスト",
+      "description": "独自のリストを作成してランダム選択に使えます。"
+    }
+  },
+  "testimonials": {
+    "title": "ユーザーの声",
+    "subtitle": "数千人の満足したユーザーに加わろう！",
+    "quote1": "このアプリのおかげで決断が楽になりました！直感的な操作と豊富な機能に感動しています。",
+    "quote2": "毎日のD&Dキャンペーンで使っています。サイコロ機能も名前生成も最高です！",
+    "quote3": "このアプリの万能さが大好き！ランチ選びから友人との言い争いまで、大活躍しています。"
+  },
+  "download": {
+    "title": "今すぐダウンロード",
+    "subtitle": "ランダムジェネレーターアプリをインストールして、いつでもどこでもランダムを楽しもう！",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "QRコードをスキャンしてダウンロード"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. 無断転載禁止。",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "contact": "お問い合わせ"
+  }
+}

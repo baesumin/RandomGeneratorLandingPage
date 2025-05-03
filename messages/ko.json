@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "기능",
+    "download": "지금 다운로드",
+    "language": "언어"
+  },
+  "hero": {
+    "title": "모든 랜덤 기능을 하나의 앱에서",
+    "subtitle": "동전 던지기, 주사위 굴리기, 룰렛 돌리기 등! 결정을 쉽고 재미있게 만들어주는 궁극의 랜덤 생성기 앱입니다.",
+    "downloadNow": "지금 다운로드",
+    "seeFeatures": "기능 보기"
+  },
+  "features": {
+    "title": "기능 체험하기",
+    "subtitle": "앱을 다운로드하기 전에 여기서 랜덤 기능을 직접 체험해보세요!",
+    "coinFlip": {
+      "title": "동전 던지기",
+      "description": "앞면? 뒷면? 운명에 맡겨보세요!",
+      "flip": "동전 던지기",
+      "flipping": "던지는 중...",
+      "tryAgain": "다시 시도"
+    },
+    "diceRoll": {
+      "title": "주사위 굴리기",
+      "description": "한 번에 최대 6개의 주사위를 굴려보세요!",
+      "roll": "주사위 굴리기",
+      "rolling": "굴리는 중...",
+      "tryAgain": "다시 시도"
+    },
+    "roulette": {
+      "title": "룰렛",
+      "description": "행운의 룰렛을 돌려보세요!",
+      "spin": "룰렛 돌리기",
+      "spinning": "돌리는 중...",
+      "result": "결과: ",
+      "tryAgain": "다시 시도"
+    },
+    "pickOne": {
+      "title": "하나 선택하기",
+      "description": "클릭하고 유지하여 랜덤 닉네임을 선택하세요!",
+      "instructions": "클릭하고 유지하여 닉네임 선택",
+      "pickColor": "닉네임 선택하기",
+      "selecting": "선택 중...",
+      "tryAgain": "다시 시도"
+    },
+    "wordGenerator": {
+      "title": "단어 생성기",
+      "description": "랜덤 영어 단어를 생성해보세요!",
+      "instructions": "버튼을 클릭하여 랜덤 단어 생성",
+      "generate": "단어 생성하기",
+      "generating": "생성 중..."
+    },
+    "imageGenerator": {
+      "title": "이미지 생성기",
+      "description": "아름다운 랜덤 이미지를 만들어보세요!",
+      "instructions": "버튼을 클릭하여 랜덤 이미지 생성",
+      "generate": "이미지 생성하기",
+      "generating": "생성 중..."
+    }
+  },
+  "moreFeatures": {
+    "title": "필요한 모든 것",
+    "subtitle": "우리 앱은 결정을 돕거나 재미를 위한 다양한 랜덤 생성기를 포함하고 있습니다.",
+    "numberGenerator": {
+      "title": "숫자 생성기",
+      "description": "지정한 범위 내에서 랜덤 숫자를 생성합니다."
+    },
+    "namePicker": {
+      "title": "이름 선택기",
+      "description": "사용자 정의 목록에서 이름을 랜덤하게 선택합니다."
+    },
+    "colorGenerator": {
+      "title": "색상 생성기",
+      "description": "HEX, RGB, HSL 값으로 랜덤 색상을 생성합니다."
+    },
+    "customLists": {
+      "title": "사용자 정의 목록",
+      "description": "랜덤 선택을 위한 자신만의 목록을 만들고 저장합니다."
+    }
+  },
+  "testimonials": {
+    "title": "사용자 후기",
+    "subtitle": "랜덤 생성기 앱을 사랑하는 수천 명의 만족한 사용자들과 함께하세요",
+    "quote1": "이 앱은 제 의사 결정에 게임 체인저였어요! 인터페이스가 너무 직관적이고 다양한 랜덤 생성기가 인상적입니다.",
+    "quote2": "D&D 캠페인을 위해 매일 이 앱을 사용해요. 주사위 굴리기는 완벽하고 랜덤 이름 생성기는 즉석에서 NPC를 만드는 데 도움이 됩니다!",
+    "quote3": "이 앱이 얼마나 다재다능한지 정말 좋아요! 랜덤 점심 장소 선택부터 친구들과의 논쟁 해결까지, 저에게 필수 앱이 되었습니다."
+  },
+  "download": {
+    "title": "지금 다운로드",
+    "subtitle": "랜덤 생성기 앱을 기기에 다운로드하고 모든 랜덤 기능을 손끝에서 사용해보세요!",
+    "appStore": "앱 스토어",
+    "googlePlay": "구글 플레이",
+    "scanQR": "스캔하여 다운로드"
+  },
+  "footer": {
+    "rights": "© 2025 랜덤 생성기. 모든 권리 보유.",
+    "terms": "이용약관",
+    "privacy": "개인정보 처리방침",
+    "contact": "문의하기"
+  }
+}

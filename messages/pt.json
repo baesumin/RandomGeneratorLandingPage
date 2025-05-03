@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Funcionalidades",
+    "download": "Baixar agora",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Todas as suas necessidades aleatórias em um só app",
+    "subtitle": "Jogue cara ou coroa, role dados, gire a roleta e muito mais! O aplicativo definitivo para decisões aleatórias de forma fácil e divertida.",
+    "downloadNow": "Baixar agora",
+    "seeFeatures": "Ver funcionalidades"
+  },
+  "features": {
+    "title": "Experimente nossas funcionalidades",
+    "subtitle": "Descubra a aleatoriedade aqui mesmo antes de baixar o app!",
+    "coinFlip": {
+      "title": "Cara ou coroa",
+      "description": "Cara ou coroa? Deixe o destino decidir!",
+      "flip": "Jogar moeda",
+      "flipping": "Lançando...",
+      "tryAgain": "Tentar novamente"
+    },
+    "diceRoll": {
+      "title": "Rolagem de dados",
+      "description": "Role até 6 dados ao mesmo tempo!",
+      "roll": "Rolar dados",
+      "rolling": "Rolando...",
+      "tryAgain": "Tentar novamente"
+    },
+    "roulette": {
+      "title": "Roleta",
+      "description": "Gire a roda da sorte!",
+      "spin": "Girar roda",
+      "spinning": "Girando...",
+      "result": "Resultado: ",
+      "tryAgain": "Tentar novamente"
+    },
+    "pickOne": {
+      "title": "Escolha um",
+      "description": "Clique e segure para selecionar um apelido aleatório!",
+      "instructions": "Clique e segure para escolher um apelido",
+      "pickColor": "Escolher apelido",
+      "selecting": "Selecionando...",
+      "tryAgain": "Tentar novamente"
+    },
+    "wordGenerator": {
+      "title": "Gerador de palavras",
+      "description": "Gere palavras aleatórias em inglês!",
+      "instructions": "Clique no botão para gerar uma palavra aleatória",
+      "generate": "Gerar palavra",
+      "generating": "Gerando..."
+    },
+    "imageGenerator": {
+      "title": "Gerador de imagens",
+      "description": "Crie imagens aleatórias incríveis!",
+      "instructions": "Clique no botão para gerar uma imagem aleatória",
+      "generate": "Gerar imagem",
+      "generating": "Gerando..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Tudo o que você precisa",
+    "subtitle": "Nosso app inclui uma ampla variedade de geradores aleatórios para ajudar nas suas decisões ou para se divertir.",
+    "numberGenerator": {
+      "title": "Gerador de números",
+      "description": "Gere números aleatórios dentro de qualquer intervalo."
+    },
+    "namePicker": {
+      "title": "Selecionador de nomes",
+      "description": "Selecione nomes aleatórios das suas listas personalizadas."
+    },
+    "colorGenerator": {
+      "title": "Gerador de cores",
+      "description": "Gere cores aleatórias nos formatos HEX, RGB e HSL."
+    },
+    "customLists": {
+      "title": "Listas personalizadas",
+      "description": "Crie e salve suas próprias listas para seleções aleatórias."
+    }
+  },
+  "testimonials": {
+    "title": "O que nossos usuários dizem",
+    "subtitle": "Junte-se a milhares de usuários satisfeitos que adoram nosso app Random Generator",
+    "quote1": "Este app mudou minha forma de tomar decisões! A interface é muito intuitiva e a variedade de geradores é impressionante.",
+    "quote2": "Uso este app diariamente para minhas campanhas de D&D. O rolagem de dados é perfeita e o gerador de nomes me ajuda a criar NPCs rapidamente!",
+    "quote3": "Adoro a versatilidade deste app! Desde escolher um restaurante aleatório até resolver disputas com amigos, virou algo essencial para mim."
+  },
+  "download": {
+    "title": "Baixar agora",
+    "subtitle": "Baixe o Random Generator no seu dispositivo e tenha a aleatoriedade ao seu alcance!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Escaneie para baixar"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Todos os direitos reservados.",
+    "terms": "Termos",
+    "privacy": "Privacidade",
+    "contact": "Contato"
+  }
+}

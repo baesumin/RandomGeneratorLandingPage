@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Funzionalità",
+    "download": "Scarica ora",
+    "language": "Lingua"
+  },
+  "hero": {
+    "title": "Tutte le tue esigenze di casualità in un'unica app",
+    "subtitle": "Lancia una moneta, tira i dadi, gira la ruota della fortuna e molto altro! L'app definitiva per generare scelte casuali in modo semplice e divertente.",
+    "downloadNow": "Scarica ora",
+    "seeFeatures": "Scopri le funzionalità"
+  },
+  "features": {
+    "title": "Prova le nostre funzionalità",
+    "subtitle": "Scopri la casualità direttamente qui prima di scaricare l'app!",
+    "coinFlip": {
+      "title": "Lancio della moneta",
+      "description": "Testa o croce? Lascia che decida il destino!",
+      "flip": "Lancia la moneta",
+      "flipping": "Lancio in corso...",
+      "tryAgain": "Riprova"
+    },
+    "diceRoll": {
+      "title": "Tiro di dadi",
+      "description": "Tira fino a 6 dadi contemporaneamente!",
+      "roll": "Tira i dadi",
+      "rolling": "Tiro in corso...",
+      "tryAgain": "Riprova"
+    },
+    "roulette": {
+      "title": "Roulette",
+      "description": "Gira la ruota della fortuna!",
+      "spin": "Gira la ruota",
+      "spinning": "Rotazione in corso...",
+      "result": "Risultato: ",
+      "tryAgain": "Riprova"
+    },
+    "pickOne": {
+      "title": "Scegline uno",
+      "description": "Clicca e tieni premuto per selezionare un soprannome casuale!",
+      "instructions": "Clicca e tieni premuto per scegliere un soprannome",
+      "pickColor": "Scegli un soprannome",
+      "selecting": "Selezione in corso...",
+      "tryAgain": "Riprova"
+    },
+    "wordGenerator": {
+      "title": "Generatore di parole",
+      "description": "Genera parole inglesi casuali!",
+      "instructions": "Clicca sul pulsante per generare una parola casuale",
+      "generate": "Genera parola",
+      "generating": "Generazione in corso..."
+    },
+    "imageGenerator": {
+      "title": "Generatore di immagini",
+      "description": "Crea splendide immagini casuali!",
+      "instructions": "Clicca sul pulsante per generare un'immagine casuale",
+      "generate": "Genera immagine",
+      "generating": "Generazione in corso..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Tutto ciò di cui hai bisogno",
+    "subtitle": "La nostra app offre un'ampia varietà di generatori casuali per aiutarti a prendere decisioni o semplicemente divertirti.",
+    "numberGenerator": {
+      "title": "Generatore di numeri",
+      "description": "Genera numeri casuali entro un intervallo specificato."
+    },
+    "namePicker": {
+      "title": "Selettore di nomi",
+      "description": "Seleziona nomi casuali dalle tue liste personalizzate."
+    },
+    "colorGenerator": {
+      "title": "Generatore di colori",
+      "description": "Genera colori casuali con valori HEX, RGB e HSL."
+    },
+    "customLists": {
+      "title": "Liste personalizzate",
+      "description": "Crea e salva le tue liste per selezioni casuali."
+    }
+  },
+  "testimonials": {
+    "title": "Cosa dicono i nostri utenti",
+    "subtitle": "Unisciti a migliaia di utenti soddisfatti che amano la nostra app Random Generator",
+    "quote1": "Questa app ha cambiato il mio modo di prendere decisioni! L'interfaccia è così intuitiva e la varietà dei generatori è impressionante.",
+    "quote2": "Uso questa app ogni giorno per le mie campagne di D&D. Il generatore di dadi è perfetto e il generatore di nomi mi aiuta a creare PNG al volo!",
+    "quote3": "Adoro la versatilità di questa app! Che si tratti di scegliere un ristorante o di risolvere dispute con gli amici, è diventata essenziale per me."
+  },
+  "download": {
+    "title": "Scarica ora",
+    "subtitle": "Ottieni l'app Random Generator sul tuo dispositivo e porta la casualità sempre con te!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Scansiona per scaricare"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Tutti i diritti riservati.",
+    "terms": "Termini",
+    "privacy": "Privacy",
+    "contact": "Contatto"
+  }
+}

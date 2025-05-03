@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Fitur",
+    "download": "Unduh Sekarang",
+    "language": "Bahasa"
+  },
+  "hero": {
+    "title": "Semua Kebutuhan Acak Anda dalam Satu Aplikasi",
+    "subtitle": "Lempar koin, gulung dadu, putar roda roulette, dan banyak lagi! Aplikasi pembuat keputusan acak terbaik yang membuat segalanya mudah dan menyenangkan.",
+    "downloadNow": "Unduh Sekarang",
+    "seeFeatures": "Lihat Fitur"
+  },
+  "features": {
+    "title": "Coba Fitur Kami",
+    "subtitle": "Rasakan keacakan di sini sebelum mengunduh aplikasinya!",
+    "coinFlip": {
+      "title": "Lempar Koin",
+      "description": "Kepala atau ekor? Biarkan keberuntungan menentukan!",
+      "flip": "Lempar Koin",
+      "flipping": "Melempar...",
+      "tryAgain": "Coba Lagi"
+    },
+    "diceRoll": {
+      "title": "Gulir Dadu",
+      "description": "Gulir hingga 6 dadu sekaligus!",
+      "roll": "Gulir Dadu",
+      "rolling": "Menggulir...",
+      "tryAgain": "Coba Lagi"
+    },
+    "roulette": {
+      "title": "Roulette",
+      "description": "Putar roda keberuntungan!",
+      "spin": "Putar Roda",
+      "spinning": "Memutar...",
+      "result": "Hasil: ",
+      "tryAgain": "Coba Lagi"
+    },
+    "pickOne": {
+      "title": "Pilih Satu",
+      "description": "Klik dan tahan untuk memilih nama panggilan acak!",
+      "instructions": "Klik dan tahan untuk memilih nama panggilan",
+      "pickColor": "Pilih Nama Panggilan",
+      "selecting": "Memilih...",
+      "tryAgain": "Coba Lagi"
+    },
+    "wordGenerator": {
+      "title": "Pembuat Kata",
+      "description": "Hasilkan kata-kata Bahasa Inggris secara acak!",
+      "instructions": "Klik tombol untuk menghasilkan kata acak",
+      "generate": "Hasilkan Kata",
+      "generating": "Menghasilkan..."
+    },
+    "imageGenerator": {
+      "title": "Pembuat Gambar",
+      "description": "Ciptakan gambar acak yang indah!",
+      "instructions": "Klik tombol untuk menghasilkan gambar acak",
+      "generate": "Hasilkan Gambar",
+      "generating": "Menghasilkan..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Semua yang Anda Butuhkan",
+    "subtitle": "Aplikasi kami menawarkan berbagai generator acak untuk membantu Anda membuat keputusan atau sekadar bersenang-senang.",
+    "numberGenerator": {
+      "title": "Generator Angka",
+      "description": "Hasilkan angka acak dalam rentang apa pun yang Anda tentukan."
+    },
+    "namePicker": {
+      "title": "Pemilih Nama",
+      "description": "Pilih nama secara acak dari daftar kustom Anda."
+    },
+    "colorGenerator": {
+      "title": "Generator Warna",
+      "description": "Hasilkan warna acak dalam format HEX, RGB, dan HSL."
+    },
+    "customLists": {
+      "title": "Daftar Kustom",
+      "description": "Buat dan simpan daftar Anda sendiri untuk pemilihan acak."
+    }
+  },
+  "testimonials": {
+    "title": "Apa Kata Pengguna Kami",
+    "subtitle": "Bergabunglah dengan ribuan pengguna yang puas yang menyukai aplikasi Random Generator kami",
+    "quote1": "Aplikasi ini benar-benar mengubah cara saya mengambil keputusan! Antarmukanya sangat intuitif dan variasi generatornya luar biasa.",
+    "quote2": "Saya menggunakan aplikasi ini setiap hari untuk kampanye D&D saya. Fitur pengguliran dadu sempurna dan pembuat nama sangat membantu!",
+    "quote3": "Saya suka betapa serbagunanya aplikasi ini! Dari memilih tempat makan hingga menyelesaikan perselisihan dengan teman, ini sangat berguna."
+  },
+  "download": {
+    "title": "Unduh Sekarang",
+    "subtitle": "Unduh aplikasi Random Generator di perangkat Anda dan nikmati keacakan kapan saja!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Pindai untuk mengunduh"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Semua hak dilindungi.",
+    "terms": "Syarat",
+    "privacy": "Privasi",
+    "contact": "Kontak"
+  }
+}

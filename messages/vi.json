@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Tính năng",
+    "download": "Tải ngay",
+    "language": "Ngôn ngữ"
+  },
+  "hero": {
+    "title": "Tất cả nhu cầu ngẫu nhiên của bạn trong một ứng dụng",
+    "subtitle": "Tung đồng xu, lắc xí ngầu, quay vòng quay may mắn và nhiều hơn nữa! Ứng dụng tạo ngẫu nhiên tuyệt vời giúp quyết định dễ dàng và thú vị.",
+    "downloadNow": "Tải ngay",
+    "seeFeatures": "Xem tính năng"
+  },
+  "features": {
+    "title": "Hãy thử các tính năng của chúng tôi",
+    "subtitle": "Trải nghiệm sự ngẫu nhiên ngay tại đây trước khi tải ứng dụng!",
+    "coinFlip": {
+      "title": "Tung đồng xu",
+      "description": "Mặt trước hay mặt sau? Hãy để số phận quyết định!",
+      "flip": "Tung đồng xu",
+      "flipping": "Đang tung...",
+      "tryAgain": "Thử lại"
+    },
+    "diceRoll": {
+      "title": "Lắc xí ngầu",
+      "description": "Lắc tối đa 6 viên xí ngầu cùng lúc!",
+      "roll": "Lắc xí ngầu",
+      "rolling": "Đang lắc...",
+      "tryAgain": "Thử lại"
+    },
+    "roulette": {
+      "title": "Vòng quay",
+      "description": "Quay vòng quay may mắn!",
+      "spin": "Quay vòng",
+      "spinning": "Đang quay...",
+      "result": "Kết quả: ",
+      "tryAgain": "Thử lại"
+    },
+    "pickOne": {
+      "title": "Chọn một",
+      "description": "Nhấn và giữ để chọn ngẫu nhiên một biệt danh!",
+      "instructions": "Nhấn và giữ để chọn biệt danh",
+      "pickColor": "Chọn biệt danh",
+      "selecting": "Đang chọn...",
+      "tryAgain": "Thử lại"
+    },
+    "wordGenerator": {
+      "title": "Trình tạo từ",
+      "description": "Tạo từ tiếng Anh ngẫu nhiên!",
+      "instructions": "Nhấn nút để tạo từ ngẫu nhiên",
+      "generate": "Tạo từ",
+      "generating": "Đang tạo..."
+    },
+    "imageGenerator": {
+      "title": "Trình tạo hình ảnh",
+      "description": "Tạo những hình ảnh ngẫu nhiên tuyệt đẹp!",
+      "instructions": "Nhấn nút để tạo hình ảnh ngẫu nhiên",
+      "generate": "Tạo hình ảnh",
+      "generating": "Đang tạo..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Mọi thứ bạn cần",
+    "subtitle": "Ứng dụng của chúng tôi có nhiều công cụ tạo ngẫu nhiên để hỗ trợ bạn ra quyết định hoặc chỉ đơn giản là giải trí.",
+    "numberGenerator": {
+      "title": "Trình tạo số",
+      "description": "Tạo số ngẫu nhiên trong phạm vi bạn chỉ định."
+    },
+    "namePicker": {
+      "title": "Chọn tên",
+      "description": "Chọn tên ngẫu nhiên từ danh sách tùy chỉnh của bạn."
+    },
+    "colorGenerator": {
+      "title": "Trình tạo màu",
+      "description": "Tạo màu ngẫu nhiên với mã HEX, RGB, và HSL."
+    },
+    "customLists": {
+      "title": "Danh sách tùy chỉnh",
+      "description": "Tạo và lưu các danh sách riêng để chọn ngẫu nhiên."
+    }
+  },
+  "testimonials": {
+    "title": "Người dùng của chúng tôi nói gì",
+    "subtitle": "Tham gia cùng hàng ngàn người dùng hài lòng yêu thích ứng dụng Random Generator",
+    "quote1": "Ứng dụng này đã thay đổi cách tôi ra quyết định! Giao diện rất trực quan và các công cụ rất đa dạng.",
+    "quote2": "Tôi sử dụng ứng dụng này hàng ngày cho các chiến dịch D&D của mình. Trình tung xí ngầu và trình tạo tên rất tuyệt!",
+    "quote3": "Tôi yêu thích sự đa năng của ứng dụng này! Từ chọn chỗ ăn trưa đến giải quyết tranh cãi với bạn bè, ứng dụng này cực kỳ hữu ích."
+  },
+  "download": {
+    "title": "Tải ngay",
+    "subtitle": "Tải ứng dụng Random Generator về thiết bị của bạn và trải nghiệm sự ngẫu nhiên bất kỳ lúc nào!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Quét để tải về"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Bảo lưu mọi quyền.",
+    "terms": "Điều khoản",
+    "privacy": "Chính sách quyền riêng tư",
+    "contact": "Liên hệ"
+  }
+}

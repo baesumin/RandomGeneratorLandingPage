@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "功能",
+    "download": "立即下載",
+    "language": "語言"
+  },
+  "hero": {
+    "title": "一個應用滿足你所有的隨機需求",
+    "subtitle": "擲硬幣、擲骰子、旋轉輪盤，還有更多！讓決策變得輕鬆又有趣的終極隨機生成器應用程式。",
+    "downloadNow": "立即下載",
+    "seeFeatures": "查看功能"
+  },
+  "features": {
+    "title": "體驗我們的功能",
+    "subtitle": "在下載應用程式之前，先在這裡體驗隨機的樂趣！",
+    "coinFlip": {
+      "title": "擲硬幣",
+      "description": "正面還是反面？讓命運決定！",
+      "flip": "擲硬幣",
+      "flipping": "正在擲...",
+      "tryAgain": "再試一次"
+    },
+    "diceRoll": {
+      "title": "擲骰子",
+      "description": "一次最多擲6個骰子！",
+      "roll": "擲骰子",
+      "rolling": "正在擲...",
+      "tryAgain": "再試一次"
+    },
+    "roulette": {
+      "title": "輪盤",
+      "description": "轉動幸運輪盤！",
+      "spin": "轉動輪盤",
+      "spinning": "旋轉中...",
+      "result": "結果：",
+      "tryAgain": "再試一次"
+    },
+    "pickOne": {
+      "title": "隨機選擇",
+      "description": "點擊並長按，隨機選取一個暱稱！",
+      "instructions": "點擊並長按以選擇暱稱",
+      "pickColor": "選擇暱稱",
+      "selecting": "選擇中...",
+      "tryAgain": "再試一次"
+    },
+    "wordGenerator": {
+      "title": "單字生成器",
+      "description": "隨機生成英文單字！",
+      "instructions": "點擊按鈕生成隨機單字",
+      "generate": "生成單字",
+      "generating": "生成中..."
+    },
+    "imageGenerator": {
+      "title": "圖片生成器",
+      "description": "創造美麗的隨機圖片！",
+      "instructions": "點擊按鈕生成隨機圖片",
+      "generate": "生成圖片",
+      "generating": "生成中..."
+    }
+  },
+  "moreFeatures": {
+    "title": "你需要的一切",
+    "subtitle": "我們的應用程式包含各種隨機生成器，幫助你做決定或單純享受樂趣。",
+    "numberGenerator": {
+      "title": "數字生成器",
+      "description": "在指定範圍內生成隨機數字。"
+    },
+    "namePicker": {
+      "title": "名字選擇器",
+      "description": "從自訂列表中隨機選擇名字。"
+    },
+    "colorGenerator": {
+      "title": "顏色生成器",
+      "description": "生成HEX、RGB、HSL格式的隨機顏色。"
+    },
+    "customLists": {
+      "title": "自訂清單",
+      "description": "建立並儲存自己的清單以供隨機選擇使用。"
+    }
+  },
+  "testimonials": {
+    "title": "使用者評價",
+    "subtitle": "加入成千上萬喜愛我們隨機生成器應用程式的使用者行列",
+    "quote1": "這款應用程式改變了我的決策方式！介面直覺、功能多樣，非常出色。",
+    "quote2": "我每天都用它在D&D活動中擲骰子，還能快速生成NPC名字，超方便！",
+    "quote3": "這款應用程式真的很萬用！從選餐廳到解決朋友間的小爭執都很好用。"
+  },
+  "download": {
+    "title": "立即下載",
+    "subtitle": "在你的裝置上安裝隨機生成器應用程式，隨時隨地享受隨機樂趣！",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "掃描下載"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. 版權所有。",
+    "terms": "使用條款",
+    "privacy": "隱私政策",
+    "contact": "聯絡我們"
+  }
+}

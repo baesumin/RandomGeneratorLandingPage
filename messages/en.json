@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Features",
+    "download": "Download Now",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "All Your Random Needs in One App",
+    "subtitle": "Flip coins, roll dice, spin roulette wheels and more! The ultimate random generator app that makes decisions fun and easy.",
+    "downloadNow": "Download Now",
+    "seeFeatures": "See Features"
+  },
+  "features": {
+    "title": "Try Our Features",
+    "subtitle": "Experience the randomness right here before you download the app!",
+    "coinFlip": {
+      "title": "Coin Flip",
+      "description": "Heads or tails? Let fate decide!",
+      "flip": "Flip Coin",
+      "flipping": "Flipping...",
+      "tryAgain": "Try Again"
+    },
+    "diceRoll": {
+      "title": "Dice Roll",
+      "description": "Roll up to 6 dice at once!",
+      "roll": "Roll Dice",
+      "rolling": "Rolling...",
+      "tryAgain": "Try Again"
+    },
+    "roulette": {
+      "title": "Roulette",
+      "description": "Spin the wheel of fortune!",
+      "spin": "Spin Wheel",
+      "spinning": "Spinning...",
+      "result": "Result: ",
+      "tryAgain": "Try Again"
+    },
+    "pickOne": {
+      "title": "Pick One",
+      "description": "Click and hold to select a random nickname!",
+      "instructions": "Click and hold to select a nickname",
+      "pickColor": "Pick a Nickname",
+      "selecting": "Selecting...",
+      "tryAgain": "Try Again"
+    },
+    "wordGenerator": {
+      "title": "Word Generator",
+      "description": "Generate random English words!",
+      "instructions": "Click the button to generate a random word",
+      "generate": "Generate Word",
+      "generating": "Generating..."
+    },
+    "imageGenerator": {
+      "title": "Image Generator",
+      "description": "Create random beautiful images!",
+      "instructions": "Click the button to generate a random image",
+      "generate": "Generate Image",
+      "generating": "Generating..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Everything You Need",
+    "subtitle": "Our app includes a wide variety of random generators to help you make decisions or just have fun.",
+    "numberGenerator": {
+      "title": "Number Generator",
+      "description": "Generate random numbers within any range you specify."
+    },
+    "namePicker": {
+      "title": "Name Picker",
+      "description": "Randomly select names from your custom lists."
+    },
+    "colorGenerator": {
+      "title": "Color Generator",
+      "description": "Generate random colors with HEX, RGB, and HSL values."
+    },
+    "customLists": {
+      "title": "Custom Lists",
+      "description": "Create and save your own lists for random selection."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Users Say",
+    "subtitle": "Join thousands of satisfied users who love our Random Generator app",
+    "quote1": "This app has been a game-changer for my decision making! The interface is so intuitive and the variety of random generators is impressive.",
+    "quote2": "I use this app daily for my D&D campaigns. The dice roller is perfect and the random name generator helps me create NPCs on the fly!",
+    "quote3": "Love how versatile this app is! From picking random lunch spots to settling debates with friends, it's become essential for me."
+  },
+  "download": {
+    "title": "Download Now",
+    "subtitle": "Get the Random Generator app on your device and have all the randomness at your fingertips!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Scan to download"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  }
+}

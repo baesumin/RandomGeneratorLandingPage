@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Fonctionnalités",
+    "download": "Télécharger",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Tous vos besoins aléatoires dans une seule application",
+    "subtitle": "Lancez une pièce, jetez des dés, faites tourner une roulette et bien plus encore ! L'application ultime pour générer du hasard et prendre des décisions facilement et de manière ludique.",
+    "downloadNow": "Télécharger",
+    "seeFeatures": "Voir les fonctionnalités"
+  },
+  "features": {
+    "title": "Essayez nos fonctionnalités",
+    "subtitle": "Découvrez le pouvoir du hasard avant même de télécharger l'application !",
+    "coinFlip": {
+      "title": "Lancer de pièce",
+      "description": "Pile ou face ? Laissez le destin décider !",
+      "flip": "Lancer la pièce",
+      "flipping": "Lancement...",
+      "tryAgain": "Réessayer"
+    },
+    "diceRoll": {
+      "title": "Lancer de dés",
+      "description": "Lancez jusqu'à 6 dés en même temps !",
+      "roll": "Lancer les dés",
+      "rolling": "Lancement...",
+      "tryAgain": "Réessayer"
+    },
+    "roulette": {
+      "title": "Roulette",
+      "description": "Faites tourner la roue de la fortune !",
+      "spin": "Faire tourner",
+      "spinning": "Rotation...",
+      "result": "Résultat : ",
+      "tryAgain": "Réessayer"
+    },
+    "pickOne": {
+      "title": "Choisir un",
+      "description": "Cliquez et maintenez pour choisir un surnom aléatoire !",
+      "instructions": "Cliquez et maintenez pour sélectionner un surnom",
+      "pickColor": "Choisir un surnom",
+      "selecting": "Sélection...",
+      "tryAgain": "Réessayer"
+    },
+    "wordGenerator": {
+      "title": "Générateur de mots",
+      "description": "Générez des mots anglais aléatoires !",
+      "instructions": "Cliquez sur le bouton pour générer un mot aléatoire",
+      "generate": "Générer un mot",
+      "generating": "Génération..."
+    },
+    "imageGenerator": {
+      "title": "Générateur d'images",
+      "description": "Créez de magnifiques images aléatoires !",
+      "instructions": "Cliquez sur le bouton pour générer une image aléatoire",
+      "generate": "Générer une image",
+      "generating": "Génération..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Tout ce dont vous avez besoin",
+    "subtitle": "Notre application propose une grande variété de générateurs aléatoires pour vous aider à prendre des décisions ou simplement pour vous amuser.",
+    "numberGenerator": {
+      "title": "Générateur de nombres",
+      "description": "Générez des nombres aléatoires dans la plage de votre choix."
+    },
+    "namePicker": {
+      "title": "Sélecteur de noms",
+      "description": "Sélectionnez aléatoirement des noms à partir de vos listes personnalisées."
+    },
+    "colorGenerator": {
+      "title": "Générateur de couleurs",
+      "description": "Générez des couleurs aléatoires avec des valeurs HEX, RGB et HSL."
+    },
+    "customLists": {
+      "title": "Listes personnalisées",
+      "description": "Créez et enregistrez vos propres listes pour des sélections aléatoires."
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent nos utilisateurs",
+    "subtitle": "Rejoignez des milliers d'utilisateurs satisfaits qui adorent notre application Random Generator",
+    "quote1": "Cette application a changé ma manière de prendre des décisions ! L'interface est très intuitive et la variété des générateurs est impressionnante.",
+    "quote2": "J'utilise cette application quotidiennement pour mes campagnes D&D. Le lanceur de dés est parfait et le générateur de noms m'aide à créer des PNJ rapidement !",
+    "quote3": "J'adore la polyvalence de cette application ! Que ce soit pour choisir un restaurant au hasard ou trancher des débats entre amis, elle est devenue essentielle pour moi."
+  },
+  "download": {
+    "title": "Télécharger",
+    "subtitle": "Obtenez l'application Random Generator sur votre appareil et ayez le hasard à portée de main !",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Scanner pour télécharger"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Tous droits réservés.",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "contact": "Contact"
+  }
+}

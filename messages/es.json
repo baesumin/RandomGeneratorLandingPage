@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Características",
+    "download": "Descargar Ahora",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Todas tus necesidades aleatorias en una sola aplicación",
+    "subtitle": "¡Lanza monedas, tira dados, gira ruletas y más! La aplicación definitiva de generación aleatoria que hace que las decisiones sean divertidas y fáciles.",
+    "downloadNow": "Descargar Ahora",
+    "seeFeatures": "Ver Características"
+  },
+  "features": {
+    "title": "Prueba Nuestras Funciones",
+    "subtitle": "¡Experimenta la aleatoriedad aquí mismo antes de descargar la aplicación!",
+    "coinFlip": {
+      "title": "Lanzamiento de Moneda",
+      "description": "¿Cara o cruz? ¡Deja que el destino decida!",
+      "flip": "Lanzar Moneda",
+      "flipping": "Lanzando...",
+      "tryAgain": "Intentar de Nuevo"
+    },
+    "diceRoll": {
+      "title": "Tirada de Dados",
+      "description": "¡Tira hasta 6 dados a la vez!",
+      "roll": "Tirar Dados",
+      "rolling": "Tirando...",
+      "tryAgain": "Intentar de Nuevo"
+    },
+    "roulette": {
+      "title": "Ruleta",
+      "description": "¡Gira la rueda de la fortuna!",
+      "spin": "Girar Ruleta",
+      "spinning": "Girando...",
+      "result": "Resultado: ",
+      "tryAgain": "Intentar de Nuevo"
+    },
+    "pickOne": {
+      "title": "Elegir Uno",
+      "description": "¡Haz clic y mantén para seleccionar un apodo aleatorio!",
+      "instructions": "Haz clic y mantén para seleccionar un apodo",
+      "pickColor": "Elegir un Apodo",
+      "selecting": "Seleccionando...",
+      "tryAgain": "Intentar de Nuevo"
+    },
+    "wordGenerator": {
+      "title": "Generador de Palabras",
+      "description": "¡Genera palabras aleatorias en inglés!",
+      "instructions": "Haz clic en el botón para generar una palabra aleatoria",
+      "generate": "Generar Palabra",
+      "generating": "Generando..."
+    },
+    "imageGenerator": {
+      "title": "Generador de Imágenes",
+      "description": "¡Crea imágenes aleatorias hermosas!",
+      "instructions": "Haz clic en el botón para generar una imagen aleatoria",
+      "generate": "Generar Imagen",
+      "generating": "Generando..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Todo lo que Necesitas",
+    "subtitle": "Nuestra aplicación incluye una amplia variedad de generadores aleatorios para ayudarte a tomar decisiones o simplemente divertirte.",
+    "numberGenerator": {
+      "title": "Generador de Números",
+      "description": "Genera números aleatorios dentro de cualquier rango que especifiques."
+    },
+    "namePicker": {
+      "title": "Selector de Nombres",
+      "description": "Selecciona nombres aleatoriamente de tus listas personalizadas."
+    },
+    "colorGenerator": {
+      "title": "Generador de Colores",
+      "description": "Genera colores aleatorios con valores HEX, RGB y HSL."
+    },
+    "customLists": {
+      "title": "Listas Personalizadas",
+      "description": "Crea y guarda tus propias listas para selección aleatoria."
+    }
+  },
+  "testimonials": {
+    "title": "Lo que Dicen Nuestros Usuarios",
+    "subtitle": "Únete a miles de usuarios satisfechos que aman nuestra aplicación Random Generator",
+    "quote1": "¡Esta aplicación ha sido un cambio de juego para mi toma de decisiones! La interfaz es muy intuitiva y la variedad de generadores aleatorios es impresionante.",
+    "quote2": "Uso esta aplicación a diario para mis campañas de D&D. ¡El lanzador de dados es perfecto y el generador de nombres aleatorios me ayuda a crear NPCs al instante!",
+    "quote3": "¡Me encanta lo versátil que es esta aplicación! Desde elegir lugares aleatorios para almorzar hasta resolver debates con amigos, se ha vuelto esencial para mí."
+  },
+  "download": {
+    "title": "Descargar Ahora",
+    "subtitle": "¡Obtén la aplicación Random Generator en tu dispositivo y ten toda la aleatoriedad al alcance de tu mano!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Escanea para descargar"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Todos los derechos reservados.",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  }
+}

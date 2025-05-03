@@ -1,0 +1,101 @@
+{
+  "header": {
+    "features": "Funktionen",
+    "download": "Jetzt herunterladen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Alle deine Zufallsbedürfnisse in einer App",
+    "subtitle": "Münzen werfen, Würfel rollen, Roulette drehen und mehr! Die ultimative Zufallsgenerator-App, die Entscheidungen leicht und unterhaltsam macht.",
+    "downloadNow": "Jetzt herunterladen",
+    "seeFeatures": "Funktionen ansehen"
+  },
+  "features": {
+    "title": "Probiere unsere Funktionen aus",
+    "subtitle": "Erlebe den Zufall direkt hier, bevor du die App herunterlädst!",
+    "coinFlip": {
+      "title": "Münzwurf",
+      "description": "Kopf oder Zahl? Lass das Schicksal entscheiden!",
+      "flip": "Münze werfen",
+      "flipping": "Wird geworfen...",
+      "tryAgain": "Nochmals versuchen"
+    },
+    "diceRoll": {
+      "title": "Würfeln",
+      "description": "Würfle bis zu 6 Würfel gleichzeitig!",
+      "roll": "Würfeln",
+      "rolling": "Wird gewürfelt...",
+      "tryAgain": "Nochmals versuchen"
+    },
+    "roulette": {
+      "title": "Roulette",
+      "description": "Drehe das Glücksrad!",
+      "spin": "Rad drehen",
+      "spinning": "Dreht sich...",
+      "result": "Ergebnis: ",
+      "tryAgain": "Nochmals versuchen"
+    },
+    "pickOne": {
+      "title": "Eine auswählen",
+      "description": "Klicke und halte, um einen zufälligen Spitznamen auszuwählen!",
+      "instructions": "Klicke und halte, um einen Spitznamen auszuwählen",
+      "pickColor": "Spitznamen auswählen",
+      "selecting": "Wird ausgewählt...",
+      "tryAgain": "Nochmals versuchen"
+    },
+    "wordGenerator": {
+      "title": "Wortgenerator",
+      "description": "Generiere zufällige englische Wörter!",
+      "instructions": "Klicke auf den Button, um ein zufälliges Wort zu generieren",
+      "generate": "Wort generieren",
+      "generating": "Wird generiert..."
+    },
+    "imageGenerator": {
+      "title": "Bildgenerator",
+      "description": "Erzeuge zufällig schöne Bilder!",
+      "instructions": "Klicke auf den Button, um ein zufälliges Bild zu generieren",
+      "generate": "Bild generieren",
+      "generating": "Wird generiert..."
+    }
+  },
+  "moreFeatures": {
+    "title": "Alles, was du brauchst",
+    "subtitle": "Unsere App bietet eine große Vielfalt an Zufallsgeneratoren, die dir bei Entscheidungen helfen oder einfach Spaß machen.",
+    "numberGenerator": {
+      "title": "Zahlengenerator",
+      "description": "Generiere Zufallszahlen innerhalb eines beliebigen Bereichs."
+    },
+    "namePicker": {
+      "title": "Namensauswahl",
+      "description": "Wähle zufällig Namen aus deinen eigenen Listen aus."
+    },
+    "colorGenerator": {
+      "title": "Farbengenerator",
+      "description": "Generiere zufällige Farben mit HEX-, RGB- und HSL-Werten."
+    },
+    "customLists": {
+      "title": "Benutzerdefinierte Listen",
+      "description": "Erstelle und speichere eigene Listen für zufällige Auswahlen."
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "subtitle": "Schließe dich tausenden zufriedenen Nutzern an, die unsere Zufallsgenerator-App lieben",
+    "quote1": "Diese App hat mein Entscheidungsverhalten revolutioniert! Die Benutzeroberfläche ist so intuitiv und die Vielfalt der Generatoren ist beeindruckend.",
+    "quote2": "Ich benutze diese App täglich für meine D&D-Kampagnen. Der Würfelgenerator ist perfekt und der Namensgenerator hilft mir, spontan NSCs zu erstellen!",
+    "quote3": "Ich liebe, wie vielseitig diese App ist! Vom Finden zufälliger Lunchspots bis hin zum Lösen von Debatten mit Freunden – sie ist für mich unverzichtbar geworden."
+  },
+  "download": {
+    "title": "Jetzt herunterladen",
+    "subtitle": "Hole dir die Random Generator App auf dein Gerät und habe die Zufälligkeit jederzeit zur Hand!",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "scanQR": "Scannen zum Herunterladen"
+  },
+  "footer": {
+    "rights": "© 2025 Random Generator. Alle Rechte vorbehalten.",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz",
+    "contact": "Kontakt"
+  }
+}
