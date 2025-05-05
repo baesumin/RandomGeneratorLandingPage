@@ -8,6 +8,10 @@ export const metadata: Metadata = {
   title: "Random Generator",
   description:
     "Flip coins, roll dice, spin roulette wheels and more! The ultimate random generator app that makes decisions fun and easy.",
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
   generator: "alpaca developer",
   metadataBase: new URL("https://random-generator-all-in-one.vercel.app/"),
   openGraph: {
