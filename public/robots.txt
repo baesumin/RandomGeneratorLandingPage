@@ -1,0 +1,28 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://random-generator-all-in-one.vercel.app/sitemap.xml
+
+# Block access to API routes (if any exist in the future)
+Disallow: /api/
+
+# Allow all crawlers to access all localized pages
+Allow: /en
+Allow: /ko
+Allow: /it
+Allow: /fr
+Allow: /es
+Allow: /de
+Allow: /zh-CN
+Allow: /zh-TW
+Allow: /ja
+Allow: /pt
+Allow: /ru
+Allow: /tr
+Allow: /hi
+Allow: /vi
+Allow: /id
+Allow: /ar
+Allow: /bn
