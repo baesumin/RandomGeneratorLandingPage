@@ -1,4 +1,11 @@
 {
+  "metadata": {
+    "title": "Generador Aleatorio - Todo en Uno",
+    "description": "¡Lanza monedas, tira dados, gira ruletas y más! La aplicación definitiva de generación aleatoria que hace que las decisiones sean divertidas y fáciles.",
+    "ogTitle": "Generador Aleatorio - Todo en Uno",
+    "ogDescription": "¡Lanza monedas, tira dados, gira ruletas y más! La aplicación definitiva de generación aleatoria que hace que las decisiones sean divertidas y fáciles.",
+    "siteName": "Generador Aleatorio"
+  },
   "header": {
     "features": "Características",
     "download": "Descargar Ahora",

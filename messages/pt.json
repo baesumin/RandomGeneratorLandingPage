@@ -1,4 +1,11 @@
 {
+  "metadata": {
+    "title": "Gerador Aleatório - Tudo em Um",
+    "description": "Jogue cara ou coroa, role dados, gire a roleta e muito mais! O aplicativo definitivo para decisões aleatórias de forma fácil e divertida.",
+    "ogTitle": "Gerador Aleatório - Tudo em Um",
+    "ogDescription": "Jogue cara ou coroa, role dados, gire a roleta e muito mais! O aplicativo definitivo para decisões aleatórias de forma fácil e divertida.",
+    "siteName": "Gerador Aleatório"
+  },
   "header": {
     "features": "Funcionalidades",
     "download": "Baixar agora",

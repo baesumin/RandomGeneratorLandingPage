@@ -1,4 +1,11 @@
 {
+  "metadata": {
+    "title": "Zufallsgenerator - Alles in Einem",
+    "description": "Münzen werfen, Würfel rollen, Roulette drehen und mehr! Die ultimative Zufallsgenerator-App, die Entscheidungen leicht und unterhaltsam macht.",
+    "ogTitle": "Zufallsgenerator - Alles in Einem",
+    "ogDescription": "Münzen werfen, Würfel rollen, Roulette drehen und mehr! Die ultimative Zufallsgenerator-App, die Entscheidungen leicht und unterhaltsam macht.",
+    "siteName": "Zufallsgenerator"
+  },
   "header": {
     "features": "Funktionen",
     "download": "Jetzt herunterladen",

@@ -1,4 +1,11 @@
 {
+  "metadata": {
+    "title": "Générateur Aléatoire - Tout-en-Un",
+    "description": "Lancez une pièce, jetez des dés, faites tourner une roulette et bien plus encore ! L'application ultime pour générer du hasard et prendre des décisions facilement et de manière ludique.",
+    "ogTitle": "Générateur Aléatoire - Tout-en-Un",
+    "ogDescription": "Lancez une pièce, jetez des dés, faites tourner une roulette et bien plus encore ! L'application ultime pour générer du hasard et prendre des décisions facilement et de manière ludique.",
+    "siteName": "Générateur Aléatoire"
+  },
   "header": {
     "features": "Fonctionnalités",
     "download": "Télécharger",

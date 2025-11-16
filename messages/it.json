@@ -1,4 +1,11 @@
 {
+  "metadata": {
+    "title": "Generatore Casuale - Tutto in Uno",
+    "description": "Lancia una moneta, tira i dadi, gira la ruota della fortuna e molto altro! L'app definitiva per generare scelte casuali in modo semplice e divertente.",
+    "ogTitle": "Generatore Casuale - Tutto in Uno",
+    "ogDescription": "Lancia una moneta, tira i dadi, gira la ruota della fortuna e molto altro! L'app definitiva per generare scelte casuali in modo semplice e divertente.",
+    "siteName": "Generatore Casuale"
+  },
   "header": {
     "features": "Funzionalità",
     "download": "Scarica ora",
