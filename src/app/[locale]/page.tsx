@@ -34,18 +34,15 @@ export default function LandingPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="container mx-auto flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
-          <div className="flex gap-6 md:gap-10">
-            <a href="#" className="flex items-center space-x-2">
-              <Sparkles className="h-6 w-6 text-primary" />
-              <span className="inline-block font-bold">Random Generator</span>
-            </a>
-          </div>
-          <div className="flex flex-1 items-center justify-end space-x-4">
-            <nav className="flex items-center space-x-2">
-              <ThemeToggle />
-              <LanguageSelector />
-              <Button asChild variant="outline">
+        <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
+          <a href="#" className="flex items-center space-x-2">
+            <Sparkles className="h-6 w-6 text-purple-600" />
+            <span className="inline-block font-bold text-lg">{t("header.logo")}</span>
+          </a>
+
+          <nav className="flex items-center gap-2">
+            <div className="hidden sm:flex items-center gap-2 mr-2">
+              <Button asChild variant="ghost" size="sm">
                 <a
                   href="#features"
                   onClick={(e) => scrollToSection(e, "features")}
@@ -53,7 +50,7 @@ export default function LandingPage() {
                   {t("header.features")}
                 </a>
               </Button>
-              <Button asChild>
+              <Button asChild size="sm" className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
                 <a
                   href="#download"
                   onClick={(e) => scrollToSection(e, "download")}
@@ -61,12 +58,16 @@ export default function LandingPage() {
                   {t("header.download")}
                 </a>
               </Button>
-            </nav>
-          </div>
+            </div>
+            <div className="flex items-center gap-1 border-l pl-2 ml-2">
+              <ThemeToggle />
+              <LanguageSelector />
+            </div>
+          </nav>
         </div>
       </header>
       <main className="flex-1">
-        <section className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-white to-purple-50 dark:from-gray-900 dark:to-gray-800">
+        <section className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-purple-50/30 via-purple-50/50 to-purple-100 dark:from-gray-900 dark:via-purple-950/20 dark:to-gray-800">
           <div className="container mx-auto px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
               <div className="flex flex-col justify-center space-y-4">

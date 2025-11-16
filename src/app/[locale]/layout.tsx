@@ -214,11 +214,13 @@ export default async function RootLayout({ children, params }: Props) {
           }}
         />
       </head>
-      <body>
+      <body suppressHydrationWarning>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
+          disableTransitionOnChange={false}
+          storageKey="random-generator-theme"
         >
           <NextIntlClientProvider>{children}</NextIntlClientProvider>
         </ThemeProvider>

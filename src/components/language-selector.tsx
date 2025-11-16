@@ -61,7 +61,16 @@ export default function LanguageSelector() {
     const segments = pathname.split("/");
     segments[1] = newLocale; // 경로의 첫 세그먼트를 새 locale로 교체
     const newPathname = segments.join("/");
-    router.replace(newPathname);
+
+    // Store scroll position to restore after navigation
+    const scrollY = window.scrollY;
+
+    router.push(newPathname);
+
+    // Restore scroll position after a short delay
+    setTimeout(() => {
+      window.scrollTo(0, scrollY);
+    }, 0);
   };
 
   return (

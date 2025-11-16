@@ -60,7 +60,7 @@ export default function DownloadSection() {
         </Button>
       </div>
       {/* QR Code */}
-      <div className="w-44 h-52 mt-8 bg-white p-4 rounded-xl">
+      <div className="w-44 h-52 mt-8 bg-secondary p-4 rounded-xl shadow-lg backdrop-blur-sm">
         <Image
           src="/qrCode.png"
           alt="QR Code to download app"
@@ -68,7 +68,9 @@ export default function DownloadSection() {
           height={144}
           className="h-36 w-36"
         />
-        <p className="text-gray-800 text-sm mt-2">{t("download.scanQR")}</p>
+        <p className="text-secondary-foreground text-sm mt-2 font-medium">
+          {t("download.scanQR")}
+        </p>
       </div>
     </>
   );
