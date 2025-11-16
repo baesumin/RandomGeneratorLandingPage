@@ -3,33 +3,33 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <!-- English (Default) -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/en</loc>
+    <loc>https://randomgenerator.xyz/en</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://random-generator-all-in-one.vercel.app/en"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://random-generator-all-in-one.vercel.app/ko"/>
-    <xhtml:link rel="alternate" hreflang="it" href="https://random-generator-all-in-one.vercel.app/it"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://random-generator-all-in-one.vercel.app/fr"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://random-generator-all-in-one.vercel.app/es"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://random-generator-all-in-one.vercel.app/de"/>
-    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://random-generator-all-in-one.vercel.app/zh-CN"/>
-    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://random-generator-all-in-one.vercel.app/zh-TW"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://random-generator-all-in-one.vercel.app/ja"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://random-generator-all-in-one.vercel.app/pt"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://random-generator-all-in-one.vercel.app/ru"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://random-generator-all-in-one.vercel.app/tr"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://random-generator-all-in-one.vercel.app/hi"/>
-    <xhtml:link rel="alternate" hreflang="vi" href="https://random-generator-all-in-one.vercel.app/vi"/>
-    <xhtml:link rel="alternate" hreflang="id" href="https://random-generator-all-in-one.vercel.app/id"/>
-    <xhtml:link rel="alternate" hreflang="ar" href="https://random-generator-all-in-one.vercel.app/ar"/>
-    <xhtml:link rel="alternate" hreflang="bn" href="https://random-generator-all-in-one.vercel.app/bn"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://random-generator-all-in-one.vercel.app/en"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Korean -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/ko</loc>
+    <loc>https://randomgenerator.xyz/ko</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -37,7 +37,7 @@
 
   <!-- Italian -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/it</loc>
+    <loc>https://randomgenerator.xyz/it</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -45,7 +45,7 @@
 
   <!-- French -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/fr</loc>
+    <loc>https://randomgenerator.xyz/fr</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -53,7 +53,7 @@
 
   <!-- Spanish -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/es</loc>
+    <loc>https://randomgenerator.xyz/es</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -61,7 +61,7 @@
 
   <!-- German -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/de</loc>
+    <loc>https://randomgenerator.xyz/de</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -69,7 +69,7 @@
 
   <!-- Chinese (Simplified) -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/zh-CN</loc>
+    <loc>https://randomgenerator.xyz/zh-CN</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -77,7 +77,7 @@
 
   <!-- Chinese (Traditional) -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/zh-TW</loc>
+    <loc>https://randomgenerator.xyz/zh-TW</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -85,7 +85,7 @@
 
   <!-- Japanese -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/ja</loc>
+    <loc>https://randomgenerator.xyz/ja</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -93,7 +93,7 @@
 
   <!-- Portuguese -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/pt</loc>
+    <loc>https://randomgenerator.xyz/pt</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -101,7 +101,7 @@
 
   <!-- Russian -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/ru</loc>
+    <loc>https://randomgenerator.xyz/ru</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -109,7 +109,7 @@
 
   <!-- Turkish -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/tr</loc>
+    <loc>https://randomgenerator.xyz/tr</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -117,7 +117,7 @@
 
   <!-- Hindi -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/hi</loc>
+    <loc>https://randomgenerator.xyz/hi</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -125,7 +125,7 @@
 
   <!-- Vietnamese -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/vi</loc>
+    <loc>https://randomgenerator.xyz/vi</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -133,7 +133,7 @@
 
   <!-- Indonesian -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/id</loc>
+    <loc>https://randomgenerator.xyz/id</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -141,7 +141,7 @@
 
   <!-- Arabic -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/ar</loc>
+    <loc>https://randomgenerator.xyz/ar</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -149,7 +149,7 @@
 
   <!-- Bengali -->
   <url>
-    <loc>https://random-generator-all-in-one.vercel.app/bn</loc>
+    <loc>https://randomgenerator.xyz/bn</loc>
     <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

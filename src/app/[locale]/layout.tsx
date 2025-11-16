@@ -29,7 +29,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
-  const baseUrl = "https://random-generator-all-in-one.vercel.app";
+  const baseUrl = "https://randomgenerator.xyz";
   const currentUrl = `${baseUrl}/${locale}`;
 
   // All supported locales
@@ -132,7 +132,7 @@ export default async function RootLayout({ children, params }: Props) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
-  const baseUrl = "https://random-generator-all-in-one.vercel.app";
+  const baseUrl = "https://randomgenerator.xyz";
 
   // JSON-LD structured data for SEO
   const softwareApplicationSchema = {
