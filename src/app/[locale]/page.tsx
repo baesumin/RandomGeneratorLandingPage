@@ -36,7 +36,13 @@ export default function LandingPage() {
       <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
           <a href="#" className="flex items-center space-x-2">
-            <Sparkles className="h-6 w-6 text-purple-600" />
+            <Image
+              src="/logo.avif"
+              alt="Random Generator Logo"
+              width={24}
+              height={24}
+              className="h-6 w-6"
+            />
             <span className="inline-block font-bold text-lg">{t("header.logo")}</span>
           </a>
 
@@ -50,7 +56,7 @@ export default function LandingPage() {
                   {t("header.features")}
                 </a>
               </Button>
-              <Button asChild size="sm" className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
+              <Button asChild size="sm" className="bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600">
                 <a
                   href="#download"
                   onClick={(e) => scrollToSection(e, "download")}
@@ -67,12 +73,12 @@ export default function LandingPage() {
         </div>
       </header>
       <main className="flex-1">
-        <section className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-purple-50/30 via-purple-50/50 to-purple-100 dark:from-gray-900 dark:via-purple-950/20 dark:to-gray-800">
+        <section className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-indigo-50/40 via-purple-50/30 to-slate-100 dark:from-gray-900 dark:via-indigo-950/10 dark:to-gray-800">
           <div className="container mx-auto px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
-                  <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600">
+                  <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">
                     {t("hero.title")}
                   </h1>
                   <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
@@ -82,7 +88,7 @@ export default function LandingPage() {
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
                   <Button
                     size="lg"
-                    className="gap-1 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+                    className="gap-1 bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600"
                     asChild
                   >
                     <a
@@ -245,7 +251,7 @@ export default function LandingPage() {
           <div className="container mx-auto px-4 md:px-6">
             <div className="grid gap-6 lg:grid-cols-2 lg:gap-12">
               <div className="space-y-4">
-                <div className="inline-block rounded-lg bg-purple-100 px-3 py-1 text-sm dark:bg-purple-900">
+                <div className="inline-block rounded-lg bg-indigo-100 px-3 py-1 text-sm dark:bg-indigo-900/50">
                   {t("moreFeatures.title")}
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
@@ -347,7 +353,7 @@ export default function LandingPage() {
 
         <section
           id="download"
-          className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-r from-purple-600 to-pink-600 text-white"
+          className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-r from-indigo-600 to-purple-600 text-white"
         >
           <div className="container mx-auto px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
