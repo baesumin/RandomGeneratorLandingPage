@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "random-generator-all-in-one.vercel.app"
+        }
+      ],
+      "destination": "https://randomgenerator.xyz/:path*",
+      "permanent": true
+    }
+  ]
+}
