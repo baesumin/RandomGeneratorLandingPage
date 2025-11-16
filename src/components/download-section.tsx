@@ -2,6 +2,7 @@
 import { Button } from "./ui/button";
 import { Apple, Play } from "lucide-react";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 
 export default function DownloadSection() {
   const t = useTranslations();
@@ -23,9 +24,11 @@ export default function DownloadSection() {
           variant="secondary"
           className="gap-5 h-16 px-8 w-52"
         >
-          <img
+          <Image
             src="/appstore-icon.png"
             alt="appstore download app"
+            width={40}
+            height={40}
             className="size-10"
           />
           <div className="flex flex-col items-start">
@@ -41,9 +44,11 @@ export default function DownloadSection() {
           variant="secondary"
           className="gap-5 h-16 px-8 w-52"
         >
-          <img
+          <Image
             src="/playstore-icon.png"
-            alt="palystore download app"
+            alt="playstore download app"
+            width={36}
+            height={36}
             className="size-9"
           />
           <div className="flex flex-col items-start">
@@ -56,9 +61,11 @@ export default function DownloadSection() {
       </div>
       {/* QR Code */}
       <div className="w-44 h-52 mt-8 bg-white p-4 rounded-xl">
-        <img
+        <Image
           src="/qrCode.png"
           alt="QR Code to download app"
+          width={144}
+          height={144}
           className="h-36 w-36"
         />
         <p className="text-gray-800 text-sm mt-2">{t("download.scanQR")}</p>

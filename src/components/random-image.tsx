@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 export default function RandomImage() {
   const [image, setImage] = useState<string | null>(null);
@@ -15,10 +16,13 @@ export default function RandomImage() {
   }
 
   return (
-    <img
+    <Image
       src={image}
       alt="Random Generator App Screenshot"
+      width={600}
+      height={1200}
       className="h-full w-full"
+      priority
     />
   );
 }

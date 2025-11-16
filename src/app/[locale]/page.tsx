@@ -14,6 +14,7 @@ import LanguageSelector from "@/src/components/language-selector";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import { Button } from "@/src/components/ui/button";
+import Image from "next/image";
 
 export default function LandingPage() {
   const t = useTranslations();
@@ -313,9 +314,11 @@ export default function LandingPage() {
               ].map((testimonial, i) => (
                 <Card key={i} className="text-center p-6">
                   <div className="flex justify-center mb-4">
-                    <img
+                    <Image
                       src={testimonial.avatar || "/placeholder.svg"}
                       alt={`${testimonial.name} avatar`}
+                      width={64}
+                      height={64}
                       className="rounded-full h-16 w-16"
                     />
                   </div>
