@@ -91,4 +91,21 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+
+  /* Smooth theme transition */
+  html {
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+  }
+
+  body,
+  body *,
+  section,
+  div,
+  header,
+  footer {
+    transition: background-color 0.5s ease-in-out,
+                color 0.5s ease-in-out,
+                border-color 0.5s ease-in-out,
+                background-image 0.5s ease-in-out;
+  }
 }

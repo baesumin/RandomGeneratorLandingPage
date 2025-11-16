@@ -219,7 +219,6 @@ export default async function RootLayout({ children, params }: Props) {
           attribute="class"
           defaultTheme="system"
           enableSystem
-          disableTransitionOnChange
         >
           <NextIntlClientProvider>{children}</NextIntlClientProvider>
         </ThemeProvider>

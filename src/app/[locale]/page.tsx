@@ -11,6 +11,7 @@ import { Download, Gift, Smartphone, Sparkles, Star, Zap } from "lucide-react";
 import RandomImage from "@/src/components/random-image";
 import DownloadSection from "@/src/components/download-section";
 import LanguageSelector from "@/src/components/language-selector";
+import { ThemeToggle } from "@/src/components/theme-toggle";
 import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import { Button } from "@/src/components/ui/button";
@@ -42,6 +43,7 @@ export default function LandingPage() {
           </div>
           <div className="flex flex-1 items-center justify-end space-x-4">
             <nav className="flex items-center space-x-2">
+              <ThemeToggle />
               <LanguageSelector />
               <Button asChild variant="outline">
                 <a
