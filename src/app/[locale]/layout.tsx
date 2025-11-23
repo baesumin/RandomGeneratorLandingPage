@@ -112,6 +112,12 @@ export async function generateMetadata({
           alt: t("siteName"),
         },
       ],
+      videos: [
+        {
+          url: `${baseUrl}/demo.mp4`,
+          type: "video/mp4",
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
@@ -192,6 +198,19 @@ export default async function RootLayout({ children, params }: Props) {
     },
   };
 
+  const videoSchema = {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: t("title"),
+    description: t("description"),
+    thumbnailUrl: `${baseUrl}/og-image.avif`,
+    uploadDate: "2025-01-01",
+    contentUrl: `${baseUrl}/demo.mp4`,
+    embedUrl: `${baseUrl}/${locale}`,
+    duration: "PT22S",
+    inLanguage: locale,
+  };
+
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
@@ -211,6 +230,12 @@ export default async function RootLayout({ children, params }: Props) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(webPageSchema),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(videoSchema),
           }}
         />
       </head>
