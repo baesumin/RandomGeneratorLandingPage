@@ -204,7 +204,7 @@ export default async function RootLayout({ children, params }: Props) {
     name: t("title"),
     description: t("description"),
     thumbnailUrl: `${baseUrl}/og-image.avif`,
-    uploadDate: "2025-01-01",
+    uploadDate: "2025-01-01T00:00:00+00:00",
     contentUrl: `${baseUrl}/demo.mp4`,
     embedUrl: `${baseUrl}/${locale}`,
     duration: "PT22S",
