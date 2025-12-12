@@ -4,7 +4,7 @@
   <!-- English (Default) -->
   <url>
     <loc>https://randomgenerator.xyz/en</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
@@ -30,128 +30,416 @@
   <!-- Korean -->
   <url>
     <loc>https://randomgenerator.xyz/ko</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Italian -->
   <url>
     <loc>https://randomgenerator.xyz/it</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- French -->
   <url>
     <loc>https://randomgenerator.xyz/fr</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Spanish -->
   <url>
     <loc>https://randomgenerator.xyz/es</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- German -->
   <url>
     <loc>https://randomgenerator.xyz/de</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Chinese (Simplified) -->
   <url>
     <loc>https://randomgenerator.xyz/zh-CN</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Chinese (Traditional) -->
   <url>
     <loc>https://randomgenerator.xyz/zh-TW</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Japanese -->
   <url>
     <loc>https://randomgenerator.xyz/ja</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Portuguese -->
   <url>
     <loc>https://randomgenerator.xyz/pt</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Russian -->
   <url>
     <loc>https://randomgenerator.xyz/ru</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Turkish -->
   <url>
     <loc>https://randomgenerator.xyz/tr</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Hindi -->
   <url>
     <loc>https://randomgenerator.xyz/hi</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Vietnamese -->
   <url>
     <loc>https://randomgenerator.xyz/vi</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Indonesian -->
   <url>
     <loc>https://randomgenerator.xyz/id</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Arabic -->
   <url>
     <loc>https://randomgenerator.xyz/ar</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 
   <!-- Bengali -->
   <url>
     <loc>https://randomgenerator.xyz/bn</loc>
-    <lastmod>2025-11-16</lastmod>
+    <lastmod>2025-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://randomgenerator.xyz/en"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://randomgenerator.xyz/ko"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://randomgenerator.xyz/it"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://randomgenerator.xyz/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://randomgenerator.xyz/es"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://randomgenerator.xyz/de"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://randomgenerator.xyz/zh-CN"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://randomgenerator.xyz/zh-TW"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://randomgenerator.xyz/ja"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://randomgenerator.xyz/pt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://randomgenerator.xyz/ru"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://randomgenerator.xyz/tr"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://randomgenerator.xyz/hi"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://randomgenerator.xyz/vi"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://randomgenerator.xyz/id"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://randomgenerator.xyz/ar"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://randomgenerator.xyz/bn"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://randomgenerator.xyz/en"/>
   </url>
 </urlset>
