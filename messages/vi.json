@@ -86,13 +86,6 @@
       "description": "Tạo và lưu các danh sách riêng để chọn ngẫu nhiên."
     }
   },
-  "testimonials": {
-    "title": "Người dùng của chúng tôi nói gì",
-    "subtitle": "Tham gia cùng hàng ngàn người dùng hài lòng yêu thích ứng dụng Random Generator",
-    "quote1": "Ứng dụng này đã thay đổi cách tôi ra quyết định! Giao diện rất trực quan và các công cụ rất đa dạng.",
-    "quote2": "Tôi sử dụng ứng dụng này hàng ngày cho các chiến dịch D&D của mình. Trình tung xí ngầu và trình tạo tên rất tuyệt!",
-    "quote3": "Tôi yêu thích sự đa năng của ứng dụng này! Từ chọn chỗ ăn trưa đến giải quyết tranh cãi với bạn bè, ứng dụng này cực kỳ hữu ích."
-  },
   "download": {
     "title": "Tải ngay",
     "subtitle": "Tải ứng dụng Random Generator về thiết bị của bạn và trải nghiệm sự ngẫu nhiên bất kỳ lúc nào!",

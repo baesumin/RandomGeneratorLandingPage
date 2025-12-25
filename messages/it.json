@@ -86,13 +86,6 @@
       "description": "Crea e salva le tue liste per selezioni casuali."
     }
   },
-  "testimonials": {
-    "title": "Cosa dicono i nostri utenti",
-    "subtitle": "Unisciti a migliaia di utenti soddisfatti che amano la nostra app Random Generator",
-    "quote1": "Questa app ha cambiato il mio modo di prendere decisioni! L'interfaccia è così intuitiva e la varietà dei generatori è impressionante.",
-    "quote2": "Uso questa app ogni giorno per le mie campagne di D&D. Il generatore di dadi è perfetto e il generatore di nomi mi aiuta a creare PNG al volo!",
-    "quote3": "Adoro la versatilità di questa app! Che si tratti di scegliere un ristorante o di risolvere dispute con gli amici, è diventata essenziale per me."
-  },
   "download": {
     "title": "Scarica ora",
     "subtitle": "Ottieni l'app Random Generator sul tuo dispositivo e porta la casualità sempre con te!",

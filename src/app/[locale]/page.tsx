@@ -7,7 +7,7 @@ import FeatureCard from "@/src/components/feature-card";
 import PickOne from "@/src/components/pick-one";
 import WordGenerator from "@/src/components/word-generator";
 import ImageGenerator from "@/src/components/image-generator";
-import { Download, Gift, Smartphone, Sparkles, Star, Zap } from "lucide-react";
+import { Download, Gift, Smartphone, Sparkles, Zap } from "lucide-react";
 import RandomImage from "@/src/components/random-image";
 import DownloadSection from "@/src/components/download-section";
 import LanguageSelector from "@/src/components/language-selector";
@@ -283,70 +283,6 @@ export default function LandingPage() {
                   description={t("moreFeatures.customLists.description")}
                 />
               </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Testimonials section */}
-        <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-50 dark:bg-gray-800">
-          <div className="container mx-auto px-4 md:px-6">
-            <div className="flex flex-col items-center justify-center space-y-4 text-center">
-              <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  {t("testimonials.title")}
-                </h2>
-                <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                  {t("testimonials.subtitle")}
-                </p>
-              </div>
-            </div>
-            <div className="mx-auto grid max-w-6xl grid-cols-1 gap-6 py-12 md:grid-cols-3">
-              {[
-                {
-                  name: "Sarah J.",
-                  avatar: "/placeholder.svg?height=60&width=60",
-                  rating: 5,
-                  text: t("testimonials.quote1"),
-                },
-                {
-                  name: "Michael T.",
-                  avatar: "/placeholder.svg?height=60&width=60",
-                  rating: 5,
-                  text: t("testimonials.quote2"),
-                },
-                {
-                  name: "Jessica L.",
-                  avatar: "/placeholder.svg?height=60&width=60",
-                  rating: 4,
-                  text: t("testimonials.quote3"),
-                },
-              ].map((testimonial, i) => (
-                <Card key={i} className="text-center p-6">
-                  <div className="flex justify-center mb-4">
-                    <Image
-                      src={testimonial.avatar || "/placeholder.svg"}
-                      alt={`${testimonial.name} avatar`}
-                      width={64}
-                      height={64}
-                      className="rounded-full h-16 w-16"
-                    />
-                  </div>
-                  <div className="flex justify-center mb-2">
-                    {Array(testimonial.rating)
-                      .fill(0)
-                      .map((_, i) => (
-                        <Star
-                          key={i}
-                          className="h-5 w-5 fill-yellow-400 text-yellow-400"
-                        />
-                      ))}
-                  </div>
-                  <p className="text-gray-600 dark:text-gray-300 italic mb-4">
-                    "{testimonial.text}"
-                  </p>
-                  <p className="font-semibold">{testimonial.name}</p>
-                </Card>
-              ))}
             </div>
           </div>
         </section>

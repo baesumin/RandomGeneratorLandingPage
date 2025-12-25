@@ -86,13 +86,6 @@
       "description": "Créez et enregistrez vos propres listes pour des sélections aléatoires."
     }
   },
-  "testimonials": {
-    "title": "Ce que disent nos utilisateurs",
-    "subtitle": "Rejoignez des milliers d'utilisateurs satisfaits qui adorent notre application Random Generator",
-    "quote1": "Cette application a changé ma manière de prendre des décisions ! L'interface est très intuitive et la variété des générateurs est impressionnante.",
-    "quote2": "J'utilise cette application quotidiennement pour mes campagnes D&D. Le lanceur de dés est parfait et le générateur de noms m'aide à créer des PNJ rapidement !",
-    "quote3": "J'adore la polyvalence de cette application ! Que ce soit pour choisir un restaurant au hasard ou trancher des débats entre amis, elle est devenue essentielle pour moi."
-  },
   "download": {
     "title": "Télécharger",
     "subtitle": "Obtenez l'application Random Generator sur votre appareil et ayez le hasard à portée de main !",

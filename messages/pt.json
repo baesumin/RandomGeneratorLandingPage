@@ -86,13 +86,6 @@
       "description": "Crie e salve suas próprias listas para seleções aleatórias."
     }
   },
-  "testimonials": {
-    "title": "O que nossos usuários dizem",
-    "subtitle": "Junte-se a milhares de usuários satisfeitos que adoram nosso app Random Generator",
-    "quote1": "Este app mudou minha forma de tomar decisões! A interface é muito intuitiva e a variedade de geradores é impressionante.",
-    "quote2": "Uso este app diariamente para minhas campanhas de D&D. O rolagem de dados é perfeita e o gerador de nomes me ajuda a criar NPCs rapidamente!",
-    "quote3": "Adoro a versatilidade deste app! Desde escolher um restaurante aleatório até resolver disputas com amigos, virou algo essencial para mim."
-  },
   "download": {
     "title": "Baixar agora",
     "subtitle": "Baixe o Random Generator no seu dispositivo e tenha a aleatoriedade ao seu alcance!",

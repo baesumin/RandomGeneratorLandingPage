@@ -86,13 +86,6 @@
       "description": "Rastgele seçimler için kendi listelerinizi oluşturun ve kaydedin."
     }
   },
-  "testimonials": {
-    "title": "Kullanıcılarımız Ne Diyor",
-    "subtitle": "Random Generator uygulamamızı seven binlerce memnun kullanıcıya katılın",
-    "quote1": "Bu uygulama karar verme yöntemimi değiştirdi! Arayüz çok sezgisel ve özellikler oldukça çeşitli.",
-    "quote2": "D&D kampanyalarımda her gün bu uygulamayı kullanıyorum. Zar atıcı ve isim üretici harika çalışıyor!",
-    "quote3": "Bu uygulamanın çok yönlülüğüne bayılıyorum! Rastgele öğle yemeği mekanı seçmekten arkadaşlarla tartışmaları çözmeye kadar hayatımın vazgeçilmezi oldu."
-  },
   "download": {
     "title": "Şimdi İndir",
     "subtitle": "Random Generator uygulamasını cihazınıza indirin ve rastgeleliğin keyfini her zaman çıkarın!",
