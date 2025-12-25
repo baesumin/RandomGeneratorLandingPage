@@ -144,7 +144,7 @@ export default async function RootLayout({ children, params }: Props) {
   const softwareApplicationSchema = {
     "@context": "https://schema.org",
     "@type": "MobileApplication",
-    name: "Random Generator - All in One",
+    name: "Random Generator",
     applicationCategory: "UtilitiesApplication",
     operatingSystem: "iOS, Android",
     offers: {
@@ -201,7 +201,7 @@ export default async function RootLayout({ children, params }: Props) {
   const videoSchema = {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    name: "Random Generator App Demo - All in One Random Tools",
+    name: "Random Generator App Demo",
     description: t("description"),
     thumbnailUrl: `${baseUrl}/og-image.avif`,
     uploadDate: "2025-01-01T00:00:00+00:00",
