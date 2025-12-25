@@ -29,7 +29,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
-  const baseUrl = "https://randomgenerator.xyz";
+  const baseUrl = "https://www.randomgenerator.xyz";
   const currentUrl = `${baseUrl}/${locale}`;
 
   // All supported locales
@@ -138,7 +138,7 @@ export default async function RootLayout({ children, params }: Props) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "metadata" });
 
-  const baseUrl = "https://randomgenerator.xyz";
+  const baseUrl = "https://www.randomgenerator.xyz";
 
   // JSON-LD structured data for SEO
   const softwareApplicationSchema = {
@@ -201,7 +201,7 @@ export default async function RootLayout({ children, params }: Props) {
   const videoSchema = {
     "@context": "https://schema.org",
     "@type": "VideoObject",
-    name: t("title"),
+    name: "Random Generator App Demo - All in One Random Tools",
     description: t("description"),
     thumbnailUrl: `${baseUrl}/og-image.avif`,
     uploadDate: "2025-01-01T00:00:00+00:00",
@@ -209,6 +209,14 @@ export default async function RootLayout({ children, params }: Props) {
     embedUrl: `${baseUrl}/${locale}`,
     duration: "PT22S",
     inLanguage: locale,
+    publisher: {
+      "@type": "Organization",
+      name: "Alpaca Developer",
+      logo: {
+        "@type": "ImageObject",
+        url: `${baseUrl}/logo.avif`,
+      },
+    },
   };
 
   return (

@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://randomgenerator.xyz/sitemap.xml
+Sitemap: https://www.randomgenerator.xyz/sitemap.xml
 
 # Block access to API routes (if any exist in the future)
 Disallow: /api/
